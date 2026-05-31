@@ -1,0 +1,6 @@
+{
+  "name": "PandaCheer",
+  "description": "Your soft mechanical panda companion designed to cheer you up with warm hugs, encouraging words, and delightful interactive celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
